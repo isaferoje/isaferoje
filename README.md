@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![giphy](https://user-images.githubusercontent.com/126905319/222791818-9bd257a0-898e-4c2c-abc5-5d5c28a2e729.gif)
+
 <!--
 **isaferoje/isaferoje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
