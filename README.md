@@ -2,6 +2,9 @@
 
 ![giphy](https://user-images.githubusercontent.com/126905319/222791818-9bd257a0-898e-4c2c-abc5-5d5c28a2e729.gif)
 
+### My GitHub Stats
+[![isaferoje's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaferoje&theme=white&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **isaferoje/isaferoje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
